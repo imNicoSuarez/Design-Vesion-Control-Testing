@@ -3,6 +3,13 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5320841017123817,
+        "green": 0.3725177128192266,
+        "red": 0.9304315476190477
+      }
     ],
     "gradients": [
     ],
@@ -16,8 +23,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "d72ac480-0510-11e8-b0e9-c741f94128d9",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -26,10 +31,9 @@
     ]
   },
   "meta": {
-    "appVersion": "48.2",
-    "build": 47327,
-    "commit": "b8111e3393c4ca1f2399ecfdfc1e9488029ebe7b",
-    "version": 97
+    "appVersion": "49.3",
+    "build": 51167,
+    "version": 101
   },
   "pages": [
     "Page 1"
